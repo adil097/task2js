@@ -1,0 +1,246 @@
+.header {
+    background-image: url('/images/bg.png');
+    color: #0f0f0f;
+    font-size: 16px;
+    font-weight: normal;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+.banner{
+    margin-top: -18px;
+}
+.mini-menu {
+    color: #86898f;
+    margin-left: 686px;
+    margin-top: -2px;
+    font-size: 12.5px; 
+    word-spacing: 1px;
+    font-size: 12px;
+    font-family: "Arial";
+    color: rgb(128, 129, 132);
+    line-height: 2;
+    text-align: left;
+}
+.account-pic{
+    margin-right: 6px;
+}
+.wishlist-pic {
+    margin-left: 25px;
+    margin-right: 8px;
+}
+.checkout-pic {
+    margin-left: 25px;
+    margin-right: 5px;
+}
+.login-pic {
+    margin-left: 26px;
+    margin-right: 8px;
+}  
+.greetings{
+    font-size: 16px;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeueBoldCondensed", "HelveticaNeue-Bold-Condensed", "Helvetica Neue Bold Condensed", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosCnBold', "Helvetica", "Tahoma", "Geneva", "Arial Narrow", "Arial", sans-serif; font-weight:600; font-stretch:condensed;
+    color: rgb(142, 143, 145);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    left: 921px;
+    top: 77px;
+    z-index: 72;
+    margin-top: 23px;
+    margin-left: auto;
+    margin-right: 0px;
+    text-align: right;
+    width: 300px;
+}
+.hat {
+    width: 949px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row {
+    display: flex;
+}
+.logo{
+    color: rgb(110, 132, 146);
+    font-size: 77px;
+    font-family: "ParsekCTT";
+    color: rgb(110, 132, 146);
+    line-height: 0.26;
+    text-align: left;
+    margin-left: 32px;
+    display: inline-block;
+    
+}
+.logo:hover{
+    color: rgb(127, 195, 255);
+}
+.logo-words {
+    font-size: 14px;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeueBoldCondensed", "HelveticaNeue-Bold-Condensed", "Helvetica Neue Bold Condensed", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosCnBold', "Helvetica", "Tahoma", "Geneva", "Arial Narrow", "Arial", sans-serif; font-weight:600; font-stretch:condensed;
+    color: rgba(13, 19, 24, 0.4);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.429;
+    text-align: left;
+    left: 195px;
+    top: 145.497px;
+    margin-left: 32px;
+    margin-top: -15px;
+    
+  }
+.logo,
+.logo-bg-pic {
+    display: inline-block;
+    margin-top: -33px;
+    margin-right: -33px;
+    width: 196px;
+    height: 225px;
+}
+
+  
+.search {
+    background-image: url("/images/bg2.png");
+    font-family: "Arial";
+    border-bottom-style: dashed;
+    border-bottom-width: 2px;
+    border:  rgb(143, 144, 147);
+    border-radius: 15px;
+    width: 395px;
+    height: 75px;
+    margin-left: auto;
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 6px;
+    margin-top: 8px;
+    margin-right: 0px;
+    color: rgb(204, 204, 204);
+}
+.search-pic {
+    background-image: url("Layer 16.png");
+    width: 93px;
+    height: 63px;
+    margin-top: 29px;
+    margin-left: -29px;
+    
+}
+.search-input {
+    margin-top: 23px;
+    margin-left: 31px;
+    width: 270px;
+    height: 25px;
+    color: rgb(204, 204, 204);
+}
+.cart {
+    background-image: url("/images/bg2.png");
+    width: 100px;
+    height: 100px;
+    font-size: 16px;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeueBoldCondensed", "HelveticaNeue-Bold-Condensed", "Helvetica Neue Bold Condensed", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosCnBold', "Helvetica", "Tahoma", "Geneva", "Arial Narrow", "Arial", sans-serif; font-weight:600; font-stretch:condensed;
+    color: rgb(110, 132, 146);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 89px;
+    height: 75px;
+    margin-left: auto;
+    margin-top: 8px;
+}
+  
+.amount_cart {
+    font-size: 30px;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeueBoldCondensed", "HelveticaNeue-Bold-Condensed", "Helvetica Neue Bold Condensed", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosCnBold', "Helvetica", "Tahoma", "Geneva", "Arial Narrow", "Arial", sans-serif; font-weight:600; font-stretch:condensed;
+    text-transform: uppercase;
+    line-height: 0.667;
+    margin-top: 15px;    
+}
+
+.category-menu {
+    background-color: rgb(110, 132, 146);
+    width: 1000px;
+    margin-left: 0;
+    margin-right: auto;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;    
+    width: 949px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home_page { 
+    font-size: 14px;
+    font-family: "HelveticaNeue-CondensedBold";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.429;
+    text-align: left;
+    position: absolute;
+    left: 185px;
+    top: 205.497px;
+    z-index: 58;
+  }
+  
+body {
+    background-image: url('/images/bg.png');
+    color: #0f0f0f;
+    font-size: 16px;
+    font-weight: normal;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #00ff80;
+    box-sizing: 2px;
+}
+.allpage
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+.middle {
+    background-image: url('/images/bg-middle.png');
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.text {
+    font-family: "Arial";
+}
+.shoes-selector
+{
+    display: flex;
+}
+.sale {
+    font-size: 20px;
+    font-family: "Helvetica Condensed";
+    color: rgb(109, 109, 109);
+    font-weight: bold;
+    line-height: 1.1;
+    text-align: center;
+}
+  
+.sale-price {
+        font-size: 24px;
+        font-family: "Helvetica Condensed";
+        color: rgb(110, 132, 146);
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 0.833;
+        text-align: center;   
+}
+footer {
+    margin-top: 20px;
+    background-color: rgb(110, 132, 146);
+    height: 300px;
+}
+
+.text1{
+    margin-top: -40px;
+}
